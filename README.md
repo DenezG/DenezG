@@ -58,25 +58,3 @@ Game logic, UI, and world design — all from scratch.
 
 ![Roblox](https://img.shields.io/badge/Roblox-00C853?style=for-the-badge&logo=Lua&logoColor=white)
 ![Lua](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
----
-
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DenezG&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Yeachan-Heo/Yeachan-Heo/output/github-contribution-grid-snake-dark.svg)
-
-</div>
