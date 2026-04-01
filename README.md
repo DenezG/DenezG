@@ -20,7 +20,7 @@
 
 ## 🚀 Projects
 
-### 🎵 TikTok Automatic Video Generator — `Node.js`
+### TikTok Automatic Video Generator — `Node.js`
 Automated pipeline that generates and uploads TikTok videos programmatically.
 No manual editing, no manual posting — fully autonomous content creation.
 
@@ -29,7 +29,7 @@ No manual editing, no manual posting — fully autonomous content creation.
 
 ---
 
-### 🤖 RAG with LangChain — `Python`
+### RAG with LangChain — `Python`
 A Retrieval-Augmented Generation system built with LangChain.
 Query your own documents with the power of LLMs — fast, accurate, and private.
 
@@ -39,7 +39,7 @@ Query your own documents with the power of LLMs — fast, accurate, and private.
 
 ---
 
-### 🏠 Personal NAS — Media Server Stack — `Docker`
+### Personal NAS — Media Server Stack — `Docker`
 Self-hosted media center running on Docker.
 Full *arr stack + Nginx reverse proxy for clean access from anywhere.
 
@@ -52,7 +52,7 @@ Full *arr stack + Nginx reverse proxy for clean access from anywhere.
 
 ---
 
-### 🎮 Roblox Game — `Luau / Rojo`
+### Roblox Game — `Luau / Rojo`
 A fully custom Roblox game built in Luau using Rojo for a proper dev workflow.
 Game logic, UI, and world design — all from scratch.
 
