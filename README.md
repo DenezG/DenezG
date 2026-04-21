@@ -22,7 +22,7 @@
 
 ### TikTok Automatic Video Generator — `Node.js`
 Automated pipeline that generates and uploads TikTok videos programmatically.
-No manual editing, no manual posting — fully autonomous content creation.
+No manual editing, no manual image and script generation fully autonomous content creation.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
@@ -31,7 +31,7 @@ No manual editing, no manual posting — fully autonomous content creation.
 
 ### RAG with LangChain — `Python`
 A Retrieval-Augmented Generation system built with LangChain.
-Query your own documents with the power of LLMs — fast, accurate, and private.
+Query your own documents with the power of LLMs fast, accurate, and private.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -41,7 +41,7 @@ Query your own documents with the power of LLMs — fast, accurate, and private.
 
 ### Personal NAS — Media Server Stack — `Docker`
 Self-hosted media center running on Docker.
-Full *arr stack + Nginx reverse proxy for clean access from anywhere.
+Full *arr stack + Caddy reverse proxy for clean access from anywhere.
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Plex](https://img.shields.io/badge/Plex-E5A00D?style=for-the-badge&logo=plex&logoColor=white)
@@ -54,7 +54,7 @@ Full *arr stack + Nginx reverse proxy for clean access from anywhere.
 
 ### Roblox Game — `Luau / Rojo`
 A fully custom Roblox game built in Luau using Rojo for a proper dev workflow.
-Game logic, UI, and world design — all from scratch.
+Game logic, UI, and world design all from scratch.
 
 ![Roblox](https://img.shields.io/badge/Roblox-00C853?style=for-the-badge&logo=Lua&logoColor=white)
 ![Lua](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
