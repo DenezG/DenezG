@@ -48,7 +48,7 @@ Full *arr stack + Nginx reverse proxy for clean access from anywhere.
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
 ![Sonarr](https://img.shields.io/badge/Sonarr-35C5F4?style=for-the-badge&logo=sonarr&logoColor=white)
 ![Radarr](https://img.shields.io/badge/Radarr-FFC230?style=for-the-badge&logo=radarr&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/-Caddy-1F88C0?style=flat&logo=caddy&logoColor=white)
 
 ---
 
